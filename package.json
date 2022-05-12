@@ -1,0 +1,30 @@
+{
+  "name": "bloomtech-node-api4-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ricardorouge/bloomtech-node-api4-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ricardorouge/bloomtech-node-api4-demo/issues"
+  },
+  "homepage": "https://github.com/Ricardorouge/bloomtech-node-api4-demo#readme",
+  "devDependencies": {
+    "eslint": "^8.15.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
